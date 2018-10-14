@@ -4,3 +4,4 @@
 *.lk
 *.zip
 .Swordland.mscx,
+**/.DS_Store
